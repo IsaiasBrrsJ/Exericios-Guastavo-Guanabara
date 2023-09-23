@@ -3,8 +3,16 @@
 
 // ex ABC 1ab
 // letra.letra.letra.[espaco].numeros
+//-------------------------
+ Condigo refatorado 23/09/20233
 
+  Console.WriteLine("NickName: ");
+  Console.
+  WriteLine(Regex.IsMatch(Console.ReadLine(),
+  @"^[a-zA-Z]{3}.?\s[0-9]+[a-zA-Z]+") ? "Aceito" : "Erro");
 
+pra baixo é o codigo antigo feito.
+//------------------------
 
 string nome;
 bool temEspacoAposLetras = false;
