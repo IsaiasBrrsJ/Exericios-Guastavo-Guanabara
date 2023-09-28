@@ -7,7 +7,7 @@ using System.Threading;
 namespace AtividadeGustavoGuanabara{
     class Program{
         static void Main(string[] args){
-            
+		//Todos os exercios são chamados nas funções abaixo.            
             //HelloWord();
             // BoasVindas();
             //FuncionarioMensagem();
